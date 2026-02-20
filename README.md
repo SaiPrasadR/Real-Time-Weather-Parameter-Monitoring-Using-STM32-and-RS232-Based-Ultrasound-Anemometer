@@ -1,0 +1,2 @@
+# Real-Time-Weather-Parameter-Monitoring-Using-STM32-and-RS232-Based-Ultrasound-Anemometer
+My STM32 Code for Theis Ultrasound Anemometer, Get various Parameters from the anemometer device, such as Wind Velocity, Temperature, Wind direction, by communication of TTL to RS232 Communication with Anemometer using STM32  and display those at DWIN Display , Based on Anemometer Input Baud rate gets auto selected using STM32 Firmware
